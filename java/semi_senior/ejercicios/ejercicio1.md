@@ -1,4 +1,6 @@
-# Ejercicios para el Perfil Semi-Senior en Java
+# Pruebas Técnicas para Java con Respuestas y Ejemplos
+
+## Semi Senior
 
 ## Ejercicio 1: Implementación de un Servicio de Biblioteca
 

@@ -1,3 +1,7 @@
+# Pruebas Técnicas para Java con Respuestas y Ejemplos
+
+## Semi Senior
+
 # Ejercicio 2: Análisis de Datos de Ventas
 
 ## Instrucciones:

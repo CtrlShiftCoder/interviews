@@ -2,7 +2,7 @@
 
 ## Junior
 
-### Ejercicio 1
+### Ejercicio 2
 **Crea una clase Persona con atributos nombre y edad.**
 
 **Respuesta:**

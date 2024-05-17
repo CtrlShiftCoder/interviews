@@ -1,4 +1,6 @@
-# Ejercicios para el Perfil Senior en Java
+# Pruebas Técnicas para Java con Respuestas y Ejemplos
+
+## Senior
 
 ## Ejercicio 2:  Implementación de Algoritmo de Ordenamiento
 
@@ -6,7 +8,7 @@
 Escribe un método en Java que tome una lista de strings y devuelva la concatenación de todos los strings que tengan una longitud mayor que 5.
 
 ## Ejemplo:
-
+```java
 import java.util.ArrayList;
 import java.util.List;
 

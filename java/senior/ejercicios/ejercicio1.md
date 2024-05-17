@@ -1,5 +1,6 @@
+# Pruebas Técnicas para Java con Respuestas y Ejemplos
 
-# Ejercicios para el Perfil Senior en Java
+## Senior
 
 ## Ejercicio 1:  Implementación de Algoritmo de Ordenamiento
 
@@ -7,6 +8,7 @@
 Implementa un algoritmo de ordenamiento rápido (por ejemplo, Quicksort) en Java para ordenar un array de números enteros.
 
 ## Ejemplo:
+```java
 public class QuickSort {
     public static void quickSort(int[] array, int inicio, int fin) {
         if (inicio < fin) {
