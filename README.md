@@ -41,6 +41,32 @@ La puntuación se asigna según el desempeño del candidato en cada área. La ta
 | Semi-Senior| 41-70            |
 | Senior     | 71-100           |
 
+
+## Ponderación por Nivel:
+
+- **Junior:** Cada pregunta correcta vale 4 puntos (10 preguntas * 4 puntos = 40 puntos máximos).
+- **Semi-Senior:** Cada pregunta correcta vale 7 puntos (10 preguntas * 7 puntos = 70 puntos máximos).
+- **Senior:** Cada pregunta correcta vale 10 puntos (10 preguntas * 10 puntos = 100 puntos máximos).
+
+## Casos Excepcionales:
+- **Ejemplo**
+
+Sí, si un candidato de un nivel ejemplo Senior obtiene 30 puntos en una evaluación diseñada para seniors, su desempeño estaría más alineado con las expectativas de un perfil junior.
+
+## Esto podría deberse a varios factores:
+
+- **Falta de experiencia real:** El candidato podría haber exagerado su experiencia en el currículum o tener experiencia en proyectos que no requerían un nivel de conocimiento senior.
+- **Nervios o falta de preparación:** La entrevista puede haber sido un mal día para el candidato, o tal vez no se preparó adecuadamente para las preguntas específicas.
+- **Desajuste en las expectativas:** Es posible que tus preguntas senior sean más difíciles de lo que normalmente se esperaría de un senior en el mercado laboral.
+
+## ¿Qué hacer en esta situación?
+
+- **Revisar las preguntas:** Asegúrate de que las preguntas de nivel senior sean realmente representativas de las habilidades y conocimientos que esperas de un candidato de ese nivel.
+- **Considerar otros factores:** No te bases únicamente en la puntuación numérica. Evalúa también la experiencia del candidato, sus proyectos anteriores y su capacidad para resolver problemas y comunicarse de manera efectiva.
+- **Flexibilidad:** Si el candidato muestra potencial en otras áreas, podrías considerarlo para un puesto semi-senior o junior, o incluso ofrecerle una oportunidad de desarrollo para alcanzar el nivel senior.
+- **Feedback:** Proporciona al candidato retroalimentación constructiva sobre su desempeño y áreas de mejora.
+
+
 ## Interpretación de Resultados
 
 Combina las puntuaciones de todas las áreas evaluadas para determinar el perfil general del candidato.
