@@ -1,6 +1,6 @@
 # Realización Entrevista Técnica de de Perfiles TI
 
-Este repositorio está diseñado para ayudar a cualquier persona para que evalúe técnicamente lo técnicos a diversos perfiles TI, incluyendo Java, Angular, CI/CD, Arquitectura, Pruebas Unitarias y Buenas Prácticas. Proporciona criterios y pruebas para determinar si un candidato es Junior, Semi-Senior o Senior en cada área.
+Este repositorio está diseñado para ayudar a cualquier persona para que evalúe técnicamente lo técnico a diversos perfiles TI, incluyendo Java, Angular, CI/CD, Arquitectura, Pruebas Unitarias y Buenas Prácticas. Proporciona criterios y pruebas para determinar si un candidato es Junior, Semi-Senior o Senior en cada área.
 
 ## Tecnologías Evaluadas
 - Java
