@@ -2,7 +2,7 @@
 
 ## Junior
 
-### Pregunta 1
+### Ejercicio 1
 **Escribe un programa que imprima los números del 1 al 10.**
 
 **Respuesta:**

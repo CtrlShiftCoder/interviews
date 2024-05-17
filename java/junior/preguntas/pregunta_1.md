@@ -1,13 +1,15 @@
-# Pruebas Técnicas para Java con Respuestas y Ejemplos
+# Preguntas Técnicas para Java con Respuestas y Ejemplos
 
 ## Junior
 
-### Ejercicio 1
-**Crea una clase Persona con atributos nombre y edad.**
+### Pregunta 1
+**¿Qué es una clase en Java?**
 
 **Respuesta:**
-```java
+Una clase en Java es una plantilla o un blueprint a partir del cual se crean los objetos. Una clase define los atributos y comportamientos que los objetos creados a partir de la clase pueden tener.
 
+**Ejemplo:**
+```java
 public class Persona {
     private String nombre;
     private int edad;
@@ -16,7 +18,7 @@ public class Persona {
         this.nombre = nombre;
         this.edad = edad;
     }
-
+    
     // Getters y setters
     public String getNombre() {
         return nombre;
